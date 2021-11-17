@@ -6,7 +6,7 @@
 
 <h1 align="center"> printf </h1>
 <h1 align="center">
-<p align="center">recreating the printf function from the <stdio.h> library</p>
+<p align="center">recreating the printf function from the .<stdio.h>. library</p>
 
 
 
