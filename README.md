@@ -6,7 +6,7 @@
 
 <h1 align="center"> printf </h1>
 <h1 align="center">
-<p align="center">recreating the printf function </p>
+<p align="center">Recreating the printf function </p>
 
 
 
