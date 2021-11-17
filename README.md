@@ -25,6 +25,22 @@ This project is pretty straight forward. You will recode printf. Fortunetaly
 you will be able to reuse it in future projects as a legit function of your libft. You will
 mainly learn how to use variadic arguments.
 	
+### _The project allows to be used with these following conversions:_
+
+| Specifier    | Description                                |
+|--------------|--------------------------------------------|
+| %c           | Single character                           |
+| %s           | String of characters                       |
+| %p           | Pointer in hexadecimal                     |
+| %d           | Signed decimal integer                     |
+| %i           | Signed decimal integer                     |
+| %u           | Unsigned decimal integer                   |
+| %x           | Unsigned hexadecimal integer (lowercase)   |
+| %X           | Unsigned hexadecimal integer (uppercase)   |
+| %%           | Two followed "%" will write a "%"          |
+
+<h1></h1>
+	
 	
 ## 💻 Functions
 - [`ft_printf.c`](ft_printf.c) - loops through the printf string and identifies the formatting type.
